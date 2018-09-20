@@ -7,4 +7,3 @@ service account?
 atest
 btest
 ctest
-dtest
