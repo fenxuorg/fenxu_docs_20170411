@@ -2,8 +2,3 @@
 service account?
 1. Add empty customized service account
 2. Add partychen as service account with read permission  
-
-
-atest
-btest
-ctest
